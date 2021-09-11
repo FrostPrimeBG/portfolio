@@ -1,0 +1,15 @@
+{
+    "project":{
+        "name": "Hotel",
+        "description": "A new look on a hotel in the beautiful Alps",
+        "images": [
+            "assets/portfolio/hotel/1.png",
+            "assets/portfolio/hotel/2.png",
+            "assets/portfolio/hotel/3.png",
+            "assets/portfolio/hotel/4.png",
+            "assets/portfolio/hotel/5.png",
+            "assets/portfolio/hotel/6.png",
+            "assets/portfolio/hotel/7.png"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "project":{
+        "name": "NBU App",
+        "description": "Application for NBU for the first year students",
+        "images": [
+            "assets/portfolio/nbu_app/1.png",
+            "assets/portfolio/nbu_app/2.png",
+            "assets/portfolio/nbu_app/3.png",
+            "assets/portfolio/nbu_app/4.png",
+            "assets/portfolio/nbu_app/5.png",
+            "assets/portfolio/nbu_app/6.png"
+        ]
+    }
+}

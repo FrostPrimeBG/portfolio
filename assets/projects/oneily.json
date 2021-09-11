@@ -1,0 +1,10 @@
+{
+    "project":{
+        "name": "O'Neily",
+        "description": "Surfs in the winter",
+        "images": [
+            "assets/portfolio/oneily/1.png",
+            "assets/portfolio/oneily/2.png"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "project":{
+        "name": "Hamlet",
+        "description": "A task to redesign a classical book",
+        "images": [
+            "assets/portfolio/hamlet/1.png",
+            "assets/portfolio/hamlet/2.png"
+        ]
+    }
+}

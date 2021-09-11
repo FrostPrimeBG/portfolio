@@ -1,0 +1,37 @@
+{
+    "project":{
+        "name": "SoftBroke",
+        "description": "A website concept for real estate company",
+        "images": [
+            "assets/portfolio/softbroke/1.png",
+            "assets/portfolio/softbroke/2.png",
+            "assets/portfolio/softbroke/3.png",
+            "assets/portfolio/softbroke/4.png",
+            "assets/portfolio/softbroke/5.png",
+            "assets/portfolio/softbroke/6.png",
+            "assets/portfolio/softbroke/7.png",
+            "assets/portfolio/softbroke/8.png",
+            "assets/portfolio/softbroke/9.png",
+            "assets/portfolio/softbroke/10.png",
+            "assets/portfolio/softbroke/11.png",
+            "assets/portfolio/softbroke/12.png",
+            "assets/portfolio/softbroke/13.png",
+            "assets/portfolio/softbroke/14.png",
+            "assets/portfolio/softbroke/15.png",
+            "assets/portfolio/softbroke/16.png",
+            "assets/portfolio/softbroke/17.png",
+            "assets/portfolio/softbroke/18.png",
+            "assets/portfolio/softbroke/19.png",
+            "assets/portfolio/softbroke/20.png",
+            "assets/portfolio/softbroke/21.png",
+            "assets/portfolio/softbroke/22.png",
+            "assets/portfolio/softbroke/23.png",
+            "assets/portfolio/softbroke/24.png",
+            "assets/portfolio/softbroke/25.png",
+            "assets/portfolio/softbroke/26.png",
+            "assets/portfolio/softbroke/27.png",
+            "assets/portfolio/softbroke/28.png",
+            "assets/portfolio/softbroke/29.png"
+        ]
+    }
+}

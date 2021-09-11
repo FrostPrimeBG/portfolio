@@ -1,0 +1,9 @@
+{
+    "project":{
+        "name": "Honda",
+        "description": "A christmas campaign for an NSX",
+        "images": [
+            "assets/portfolio/honda/1.jpg"
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "project":{
+        "name": "Tattoos",
+        "description": "Tattoo projects",
+        "images": [
+            "assets/portfolio/tattoos/1.jpg",
+            "assets/portfolio/tattoos/2.png"
+        ]
+    }
+}

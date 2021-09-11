@@ -1,0 +1,13 @@
+{
+    "project":{
+        "name": "Photography",
+        "description": "Photography tasks for the university",
+        "images": [
+            "assets/portfolio/photography/1.jpg",
+            "assets/portfolio/photography/2.png",
+            "assets/portfolio/photography/3.png",
+            "assets/portfolio/photography/4.jpg",
+            "assets/portfolio/photography/5.jpg"
+        ]
+    }
+}

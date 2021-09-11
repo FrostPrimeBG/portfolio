@@ -1,0 +1,9 @@
+{
+    "project":{
+        "name": "Hack NBU",
+        "description": "A poster for a hackaton in NBU",
+        "images": [
+            "assets/portfolio/hack_nbu/1.png"
+        ]
+    }
+}

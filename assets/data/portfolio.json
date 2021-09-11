@@ -1,0 +1,85 @@
+{
+    "portfolio":
+    [
+        {
+            "class": "mix single-portfolio set-bg photo",
+            "image": "assets/portfolio/softbroke/1.png",
+            "title": "SoftBroke",
+            "summary": "Real estate",
+            "type": "page",
+            "url": "softbroke"
+        },
+        {
+            "class": "mix single-portfolio set-bg wedding",
+            "image": "assets/portfolio/art/1.jpg",
+            "title": "Art",
+            "summary": "Just art",
+            "type": "page",
+            "url": "art"
+        },
+        {
+            "class": "mix single-portfolio set-bg land",
+            "image": "assets/portfolio/hack_nbu/1.png",
+            "title": "HackNBU",
+            "summary": "A hackaton poster",
+            "type": "page",
+            "url": "hack_nbu"
+        },
+        {
+            "class": "mix single-portfolio set-bg sm-wide port",
+            "image": "assets/portfolio/hamlet/1.png",
+            "title": "Hamlet",
+            "summary": "A book redesign",
+            "type": "page",
+            "url": "hamlet"
+        },
+        {
+            "class": "mix single-portfolio set-bg photo",
+            "image": "assets/portfolio/honda/1.jpg",
+            "title": "Honda",
+            "summary": "A vision for a christmas Honda poster",
+            "type": "page",
+            "url": "honda"
+        },
+        {
+            "class": "mix single-portfolio set-bg sm-wide wedding",
+            "image": "assets/portfolio/hotel/1.png",
+            "title": "Hotel",
+            "summary": "Hotel in the Alps leaflet redesign",
+            "type": "page",
+            "url": "hotel"
+        },
+        {
+            "class": "mix single-portfolio set-bg sm-wide land",
+            "image": "assets/portfolio/nbu_app/1.png",
+            "title": "NBU App",
+            "summary": "Application for NBU for the first year students",
+            "type": "page",
+            "url": "nbu_app"
+        },
+        {
+            "class": "mix single-portfolio set-bg port",
+            "image": "assets/portfolio/oneily/1.png",
+            "title": "O'Neily",
+            "summary": "Surfs in the winter",
+            "type": "page",
+            "url": "oneily"
+        },
+        {
+            "class": "mix single-portfolio set-bg photo",
+            "image": "assets/portfolio/photography/3.png",
+            "title": "Photography",
+            "summary": "Photography tasks for the university",
+            "type": "page",
+            "url": "photography"
+        },
+        {
+            "class": "mix single-portfolio set-bg wedding",
+            "image": "assets/portfolio/tattoos/2.png",
+            "title": "Tattoos",
+            "summary": "Tattoo projects",
+            "type": "page",
+            "url": "tattoos"
+        }
+    ]
+}
